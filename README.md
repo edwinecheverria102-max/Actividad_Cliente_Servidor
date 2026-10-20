@@ -1,7 +1,7 @@
 # Actividad_Cliente_Servidor
 
 ```text
-infraestructura-segura/
+Actividad_Cliente_Servidor
 │
 ├── pki/                     # Zona de certificados y scripts de la CA
 │   ├── generate_ca.sh       # Script en Bash para crear la CA y certificados
